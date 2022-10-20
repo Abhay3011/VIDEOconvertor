@@ -10,3 +10,7 @@ pymongo[srv]
 requests
 telegraph
 tgcrypto
+pyrogram==1.4.16
+telethon
+fastapi
+six
